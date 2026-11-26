@@ -1,3 +1,4 @@
+[🇮🇷 فارسی](./README.fa.md)
 # 🐋 Solana Whale Tracker Bot
 
 ![Solana Whale Tracker Banner](./assets/banner.jpg)
